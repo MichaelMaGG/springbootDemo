@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: demo                     # 定义了扩展实现的标题
+Implementation-Version: 0.0.1-SNAPSHOT         # 定义扩展实现的版本
+Start-Class: com.example.springbootDemo.SpringbootDemoApplication  # 启动类
+Build-Jdk-Spec: 1.8                            # 指定的 JDK 版本
+Spring-Boot-Version: 2.2.6.RELEASE             # SpringBoot 版本
+Created-By: Maven Archiver 3.3.9             
+Main-Class: com.example.springbootDemo.SpringbootDemoApplication  # Main 函数
